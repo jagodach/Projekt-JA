@@ -1,1 +1,2 @@
-"# Projekt-JA" 
+"Projekt-JA"
+Wykrywanie krawędzi metodą Robertsa
