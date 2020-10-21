@@ -1,0 +1,3 @@
+C:\Users\Jagoda\Desktop\EdgeDetection-master\JA_EdgeDetection\JA_EdgeDetection\x64\Debug\JA_EdgeDetection.vcxprojAssemblyReference.cache
+C:\Users\Jagoda\Desktop\EdgeDetection-master\JA_EdgeDetection\JA_EdgeDetection\x64\Debug\JA_EdgeDetection.Form1.resources
+C:\Users\Jagoda\Desktop\EdgeDetection-master\JA_EdgeDetection\JA_EdgeDetection\x64\Debug\JA_EdgeDetection.vcxproj.GenerateResource.cache

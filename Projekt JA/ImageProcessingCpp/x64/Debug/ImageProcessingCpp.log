@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  ImageProcessing.cpp
+  Generating Code...
+     Creating library C:\Users\micha\Source\Repos\JA_EdgeDetection\x64\Debug\ImageProcessingCpp.lib and object C:\Users\micha\Source\Repos\JA_EdgeDetection\x64\Debug\ImageProcessingCpp.exp
+  ImageProcessingCpp.vcxproj -> C:\Users\micha\Source\Repos\JA_EdgeDetection\x64\Debug\ImageProcessingCpp.dll
